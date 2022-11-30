@@ -1,0 +1,3 @@
+UPDATE ARAC_BILGISI
+SET Ruhsat_No='2984',MARKA='Toyota'
+WHERE Plaka='44 MHA 852';

@@ -1,0 +1,3 @@
+UPDATE RANDEVU
+SET Tarih='02.04.2019'
+WHERE Randevu_No='09';

@@ -1,0 +1,2 @@
+DELETE FROM HIZMET
+WHERE Hizmet_Tarihi='10-05-2020';

@@ -1,0 +1,2 @@
+DELETE FROM ARAC_TURU
+WHERE Arac_Turu='Kamyonet';

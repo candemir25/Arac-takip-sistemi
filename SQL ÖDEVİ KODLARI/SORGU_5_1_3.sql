@@ -1,0 +1,3 @@
+SELECT Adi_Soyadi , Telefon , TCKN
+FROM ARAC_SAHIBI
+WHERE Telefon='05461252314'

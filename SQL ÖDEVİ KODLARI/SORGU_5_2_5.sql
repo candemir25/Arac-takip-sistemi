@@ -1,0 +1,4 @@
+SELECT RANDEVU.Randevu_No,HIZMET.Hizmet_Turu,HIZMET.Hizmet_Bedelý
+FROM RANDEVU,HIZMET
+WHERE RANDEVU.Hizmet=HIZMET.Hizmet_No
+AND Randevu_No='27';
